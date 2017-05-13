@@ -5,4 +5,4 @@ Instagram.configure do |config|
   config.client_secret = "ea003daadfc34d5884af33c43d095a2b"
 end
 
-CALLBACK_URL = "http://localhost:3000/sessions/callback"
+CALLBACK_URL = "https://instapioneras.herokuapp.com/sessions/callback"
